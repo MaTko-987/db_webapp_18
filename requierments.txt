@@ -1,0 +1,4 @@
+flask
+gunicorn==19.9.0
+sqla-wrapper
+psycopg2
